@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <a href="https://wikiportal.vercel.app" target="_blank"><img src="/profile/images/WikiPortal.png" alt="WikiPortal Banner"></a>
+    <a href="https://wikiportal.vercel.app" target="_blank"><img src="./images/WikiPortal.png" alt="WikiPortal Banner"></a>
     <br />
     <br />
     <b>WikiPortal is a platform for fostering collaborative projects across diverse domains, dedicated to advancing knowledge and information accessibility.</b>
